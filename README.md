@@ -1,4 +1,5 @@
 # Ecommerce-sales-analysis-Magnus
+Refer to my report for better understandig of this projects
 
 ** Sales and Customer Behavior Analysis ** 
 
